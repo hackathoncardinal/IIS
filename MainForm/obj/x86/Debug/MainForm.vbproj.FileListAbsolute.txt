@@ -1,0 +1,92 @@
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\MainForm.vbproj.ResolveComReference.cache
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\MainForm.vbproj.GenerateResource.Cache
+C:\Bin\Debug\MainForm.exe.config
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.AboutForm.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.Client_form.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.DeliveryForm.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.DeliverySubForm.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.DeliverySubFormItem.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.Form1.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.LoginForm.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.MainForm.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.Resources.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.RegistrationForm.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.Sales.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.SalesPrint.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.Stock.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.StockSubDelete.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.StockSubUpdate.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.Unpaid.resources
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.exe
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.xml
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\obj\x86\Debug\Infotech.pdb
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\Infotech.exe.config
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\Infotech.exe
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\Infotech.pdb
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\Infotech.xml
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\bin\Debug\Infotech.exe.config
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\bin\Debug\Infotech.exe
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\bin\Debug\Infotech.pdb
+C:\Users\Benj\Documents\Visual Studio 2010\Projects\Infotech\MainForm\bin\Debug\Infotech.xml
+C:\Users\Benj\Desktop\here\Infotech\MainForm\bin\Debug\Infotech.exe.config
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\MainForm.vbproj.ResolveComReference.cache
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.exe
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.xml
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.pdb
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.AboutForm.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.Client_form.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.DeliveryForm.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.DeliverySubForm.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.DeliverySubFormItem.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.Form1.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.LoginForm.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.MainForm.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.Resources.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.RegistrationForm.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.Sales.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.SalesPrint.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.Stock.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.StockSubDelete.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.StockSubUpdate.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.Unpaid.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\MainForm.vbproj.GenerateResource.Cache
+C:\Users\Benj\Desktop\here\Infotech\MainForm\bin\Debug\Infotech.exe
+C:\Users\Benj\Desktop\here\Infotech\MainForm\bin\Debug\Infotech.pdb
+C:\Users\Benj\Desktop\here\Infotech\MainForm\bin\Debug\Infotech.xml
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.UnpaidSub.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\RdlCompile.cache
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.StockPrint.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.SP.resources
+C:\Users\Benj\Desktop\here\Infotech\MainForm\obj\x86\Debug\Infotech.UnpaidPrint.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\bin\Debug\Infotech.exe.config
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\MainForm.vbproj.ResolveComReference.cache
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.exe
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.xml
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.pdb
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\bin\Debug\Infotech.exe
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\bin\Debug\Infotech.pdb
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\bin\Debug\Infotech.xml
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.AboutForm.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.Client_form.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.DeliveryForm.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.DeliverySubForm.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.DeliverySubFormItem.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.Form1.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.LoginForm.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.MainForm.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.Resources.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.RegistrationForm.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.Sales.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.SalesPrint.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.SP.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.Stock.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.StockPrint.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.StockSubDelete.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.StockSubUpdate.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.Unpaid.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.UnpaidPrint.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\Infotech.UnpaidSub.resources
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\MainForm.vbproj.GenerateResource.Cache
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\RdlCompile.cache
+C:\Users\Benj\Desktop\Infotech Inventory System\Infotech\MainForm\obj\x86\Debug\RdlCompile.compiled
